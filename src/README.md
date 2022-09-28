@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: false
 actionText: Get Started →
 actionLink: /guide/
 features:
@@ -10,5 +10,5 @@ features:
 #   details: Composition API is a set of additive, function-based APIs that allow flexible composition of component logic.
 # - title: SSR-ready
 #   details: Run your queries on the server before rendering the page HTML
-footer: LICENCE MIT - Created by UI-Lib
+footer:  Created by UI-Lib
 ---

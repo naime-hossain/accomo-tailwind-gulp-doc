@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "013404d43ad0f1e5290cff82b03c6088"
+    "revision": "b1db17b1b5eb80dc801132a9537a4c67"
   },
   {
     "url": "assets/css/0.styles.26b2dc89.css",
@@ -38,28 +38,28 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.dbc11427.js",
-    "revision": "6c2cd34b69af773ebdb60d0b6c47c05c"
+    "url": "assets/js/10.fb67b6cb.js",
+    "revision": "289c425dbb0b6c55e034483be33c4994"
   },
   {
     "url": "assets/js/11.23652900.js",
     "revision": "80dcbd04b2427ea2e3094f887536487b"
   },
   {
-    "url": "assets/js/12.2b0977f3.js",
-    "revision": "d1f46833b4f03a01542bc5bce120099c"
+    "url": "assets/js/12.5e57192b.js",
+    "revision": "9f6510cd179c6970aea787211d99ce84"
   },
   {
-    "url": "assets/js/13.08059c06.js",
-    "revision": "25ffff4f246bd5bb5f9aa088fc96e72b"
+    "url": "assets/js/13.868de3b3.js",
+    "revision": "0e93ca5a9d29ae2beec162335438c502"
   },
   {
-    "url": "assets/js/14.deb53cbf.js",
-    "revision": "7ae58f23fe89e088ec69f23a6838625f"
+    "url": "assets/js/14.b43ef468.js",
+    "revision": "a566b5280327d192c8cea2eff538d528"
   },
   {
-    "url": "assets/js/15.cfbfc9b3.js",
-    "revision": "f0a78dbbfa062c940c65704a56c7fb1b"
+    "url": "assets/js/15.bf90f182.js",
+    "revision": "5e31ebeb5aa581038629492db85d363f"
   },
   {
     "url": "assets/js/16.cc8955b3.js",
@@ -98,8 +98,8 @@ self.__precacheManifest = [
     "revision": "ebf27ef14a323d3c1daef8dc141dcc48"
   },
   {
-    "url": "assets/js/app.44a8426a.js",
-    "revision": "062b5e5710816727e462581e31f8912b"
+    "url": "assets/js/app.03596fa7.js",
+    "revision": "7b71281967bd4d35fbe445e7e1e471d6"
   },
   {
     "url": "error-log.jpeg",
@@ -111,31 +111,31 @@ self.__precacheManifest = [
   },
   {
     "url": "guide/components.html",
-    "revision": "6271cfaa6d7380ab151dedd2d8c4edf7"
+    "revision": "2a00ac2475385a37564a0e80cd5c3a3d"
   },
   {
     "url": "guide/folderstructure.html",
-    "revision": "14c2c9f21cbf15a4682dd414485f40ed"
+    "revision": "aa3e89ebaf4053eab9230e6796a199cf"
   },
   {
     "url": "guide/index.html",
-    "revision": "01d87a16fd0509ade7bf9eec53bbc3c4"
+    "revision": "c3942af2e2139da4feb93a4fa3a872a1"
   },
   {
     "url": "guide/installation.html",
-    "revision": "5070a95be37069e0f4d051cc4f8481ff"
+    "revision": "361f76347571e91c74dbb42743643eca"
   },
   {
     "url": "guide/layout.html",
-    "revision": "15dc56eec34d2c2baafc9dbae8385165"
+    "revision": "1b71620edfd56960de2af25086436971"
   },
   {
     "url": "guide/plugins.html",
-    "revision": "8138bab7b95d109d6151c974bba8984a"
+    "revision": "75acdb2074c9cbeb456f963af4b46d7b"
   },
   {
     "url": "index.html",
-    "revision": "9f4bf71e66c0e5390fce9b5a1db1bfcb"
+    "revision": "c621bf9e6bc319335d2bed152bc77b39"
   },
   {
     "url": "logo.png",

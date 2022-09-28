@@ -1,3 +1,15 @@
+/*
+ * File: config.js
+ * Project: private-vue-apollo-docs
+ * File Created: Wednesday, 28th September 2022 5:16:23 pm
+ * Author: Naime Hossain & ui-lib -> https://ui-lib.com/ (support@ui-lib.com)
+ * -----
+ * Last Modified: Wednesday, 28th September 2022 5:43:04 pm
+ * Modified By: Naime Hossain & ui-lib -> https://ui-lib.com/ (support@ui-lib.com>)
+ * -----
+ * Copyright 2019 - 2022 ui-lib  , ui-lib  ( https://ui-lib.com/ )
+ */
+
 module.exports = {
   base: "/",
   serviceWorker: true,
@@ -7,7 +19,7 @@ module.exports = {
       lang: "en-US",
       title: "Accomu",
       description:
-        "🚀 Production Ready, Carefully Crafted, Tailwind 3 Admin Template 🚀",
+        "🚀 Production Ready, Carefully Crafted, Tailwind 3 Listing Template 🚀",
     },
   },
   plugins: [

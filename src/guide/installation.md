@@ -2,15 +2,15 @@
 
 ## Compatibility
 
-- Pug
+- HTML 5
 - Tailwind 3
 - Gulp
 
-Demo: [X tailwind](https://octavia-vue.netlify.app/landingpage).
+Demo: [Accomu Demo](https://accomu.netlify.app).
 
 ## Manual installation
 
-> :warning: you have to use any type of npm, yarn or gulp command inside "customer-src/build-tools/"
+
 
 ```shell
 npm install
@@ -22,11 +22,11 @@ Or:
 yarn
 ```
 
-Now to run development server of Accommo run below command:
+Now to run development server of Accomu run below command:
 
 ## Gulp Quick Start
 
-1. Download Accommo latest source files from Themeforst
+1. Download Accomu latest source files from Themeforst
 
 2. Download and install Node.js from [nodejs.org](https://nodejs.org/en/download/)
    & Git from [git-scm.com](https://git-scm.com/downloads)

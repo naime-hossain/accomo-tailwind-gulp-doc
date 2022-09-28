@@ -5,7 +5,7 @@ module.exports = {
   locales: {
     "/": {
       lang: "en-US",
-      title: "Accommo",
+      title: "Accomu",
       description:
         "🚀 Production Ready, Carefully Crafted, Tailwind 3 Admin Template 🚀",
     },

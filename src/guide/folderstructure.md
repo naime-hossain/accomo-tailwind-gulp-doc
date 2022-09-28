@@ -6,11 +6,11 @@ Accomo file structure is layout/demo based. Each layout folder is complete proje
 | :------------- | :--------------- |
 | `index.html`   | Layout directory |
 
-## Build System
+## Build Files
 
-| Build System   |                                                                                            |
+| Build    |                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------- |
-| `build-tools`  | Directory for build system.                                                                |
+| `build-tools`  | Directory for build HTML & CSS .                                                                |
 | `gulp`         | Gulp compilation, copy, compress tasks for Js, SCSS, fonts and images.                     |
 | `node_modules` | Source files of Plugins & packages. This directory will be created by running npm install. |
 | `gulpfile.js`  | Main gulp file for running gulp tasks.                                                     |
